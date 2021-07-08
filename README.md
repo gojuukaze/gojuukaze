@@ -17,6 +17,8 @@
 * [KObjectSave ](https://github.com/gojuukaze/KObjectSave) &ensp;&ensp;|&ensp; Android 代替SharedPreferences的键值存储方式 &ensp;&ensp;|&ensp; `已稳定`
 * [ScreenOffTime ](https://github.com/gojuukaze/ScreenOffTime) &ensp;&ensp;|&ensp; 安卓息屏时间快捷设置按钮 &ensp;&ensp;|&ensp; `已稳定`
 * [flume-append-file-sink ](https://github.com/gojuukaze/flume-append-file-sink) &ensp;&ensp;|&ensp; flume追加内容到文件sink &ensp;&ensp;|&ensp; `不再维护`
+* [healthgo](https://github.com/gojuukaze/healthgo) &ensp;&ensp;|&ensp; 安卓计步器 &ensp;&ensp;|&ensp; `不再维护`
+
 
 <!--
 **gojuukaze/gojuukaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
