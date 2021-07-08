@@ -13,6 +13,7 @@
 * [北京地铁路线图绘制工具](https://github.com/gojuukaze/BJSubwayPen) &ensp;&ensp;|&ensp; `已稳定`
 * [tty_menu ](https://github.com/gojuukaze/tty_menu) &ensp;&ensp;|&ensp; 快速创建命令行菜单的工具 &ensp;&ensp;|&ensp; `不再维护，可用terminal_layout代替`
 * [django-choices-enums ](https://github.com/gojuukaze/django-choices-enums) &ensp;&ensp;|&ensp; 用于django choices的枚举类型 &ensp;&ensp;|&ensp; `已稳定，同时新版本官方也内置了自己的枚举`
+* [django-tagify2](https://github.com/gojuukaze/django-tagify2) &ensp;&ensp;|&ensp; django tag input field &ensp;&ensp;|&ensp; `已稳定`
 * [go-watch-file ](https://github.com/gojuukaze/go-watch-file) &ensp;&ensp;|&ensp; 用于打开会被删除的文件 &ensp;&ensp;|&ensp; `已稳定`
 * [KObjectSave ](https://github.com/gojuukaze/KObjectSave) &ensp;&ensp;|&ensp; Android 代替SharedPreferences的键值存储方式 &ensp;&ensp;|&ensp; `已稳定`
 * [ScreenOffTime ](https://github.com/gojuukaze/ScreenOffTime) &ensp;&ensp;|&ensp; 安卓息屏时间快捷设置按钮 &ensp;&ensp;|&ensp; `已稳定`
