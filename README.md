@@ -3,8 +3,8 @@
 📫 项目更新排期：  
 
 * [DeerU](https://github.com/gojuukaze/DeerU) &ensp;&ensp;|&ensp; 开源博客系统 &ensp;&ensp;|&ensp; (2021-1 ~ 2021-3)   
-* [YTask](https://github.com/gojuukaze/YTask) &ensp;&ensp;|&ensp; go异步任务框架 &ensp;&ensp;|&ensp; (2021-7 ~ 2021-9) 
-* [terminal_layout](https://github.com/gojuukaze/terminal_layout) &ensp;&ensp;|&ensp; 命令行ui布局工具 &ensp;&ensp;|&ensp; (2021-4 ~ 2021-6)  👈 当前
+* [YTask](https://github.com/gojuukaze/YTask) &ensp;&ensp;|&ensp; go异步任务框架 &ensp;&ensp;|&ensp; (2021-7 ~ 2021-9) 👈 当前
+* [terminal_layout](https://github.com/gojuukaze/terminal_layout) &ensp;&ensp;|&ensp; 命令行ui布局工具 &ensp;&ensp;|&ensp; (2021-4 ~ 2021-6)  
 * [liteAuth](https://github.com/gojuukaze/liteAuth) &ensp;&ensp;|&ensp; 基于LDAP精简的身份认证服务 &ensp;&ensp;|&ensp; (2021-10 ~ 2021-12)
 
 -----------
